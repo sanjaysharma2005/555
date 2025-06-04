@@ -1,0 +1,10 @@
+{
+    "expo": {
+      "name": "shranjay",
+      "slug": "shranjay",
+      "version": "1.0.0",
+      "sdkVersion": "50.0.0",
+      "platforms": ["ios", "android"],
+      "entryPoint": "index.js"
+    }
+}  
